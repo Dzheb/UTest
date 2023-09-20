@@ -1,4 +1,4 @@
-package org.example;
+package seminar1;
 
 /***
  *Задание 1. * В классе Calculator создайте метод calculateDiscount,

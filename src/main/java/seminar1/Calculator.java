@@ -1,4 +1,4 @@
-package org.example;
+package seminar1;
 
 public class Calculator {
     private double amount;

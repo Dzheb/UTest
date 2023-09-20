@@ -1,6 +1,7 @@
-import org.example.Calculator;
+package seminar1;
 
 import static org.assertj.core.api.Assertions.assertThat;
+
 public class TestDiscount {
     public static void main(String[] args) {
         testDiscount();
